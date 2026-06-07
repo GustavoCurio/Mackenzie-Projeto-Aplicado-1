@@ -15,4 +15,4 @@ Este repositório contém a entrega final da disciplina Projeto Aplicado I. O es
 ## Apresentação em Vídeo
 O vídeo com a síntese do estudo, abrangendo a descrição do gap operacional, a proposta analítica e os resultados da AED, pode ser acessado no link abaixo:
 
-🔗 **Assista à apresentação no YouTube:** [COLE O SEU LINK DO YOUTUBE AQUI]
+🔗 **Assista à apresentação no YouTube:[** [https://youtu.be/T-w0x6gvSbA]
