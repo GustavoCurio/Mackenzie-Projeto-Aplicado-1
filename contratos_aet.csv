@@ -1,0 +1,31 @@
+ID_Contrato;Tipo_Contrato;Status;Data_Solicitacao;Data_Assinatura;Nome_Cliente;Custo_Estimado
+1;Trabalhista;Finalizado;05/01/2026;20/01/2026;Varejo Sul SA;5500.00
+2;Civel;Finalizado;06/01/2026;15/03/2026;Construtora Horizonte;18000.00
+3;NDA;Finalizado;07/01/2026;10/01/2026;Tech Start;0.00
+4;Fornecedor;Finalizado;10/01/2026;04/02/2026;Limpeza Express;8500.00
+5;Tributario;Finalizado;11/01/2026;20/04/2026;Industrias Mar;35000.00
+6;Trabalhista;Cancelado;12/01/2026;;Transportes Leste;3000.00
+7;Civel;Finalizado;13/01/2026;28/02/2026;Roberto Almeida;12500.00
+8;NDA;Finalizado;15/01/2026;17/01/2026;Agencia Criativa;0.00
+9;Fornecedor;Finalizado;18/01/2026;15/02/2026;Sistemas Alpha;11200.00
+10;Tributario;Finalizado;20/01/2026;30/05/2026;Importadora Global;50000.00
+11;Trabalhista;Finalizado;22/01/2026;08/02/2026;Varejo Sul SA;4800.00
+12;Civel;Finalizado;25/01/2026;15/05/2026;Imobiliaria Central;42000.00
+13;NDA;Finalizado;28/01/2026;30/01/2026;Software Beta;0.00
+14;Fornecedor;Finalizado;01/02/2026;25/02/2026;Papelaria Uniao;3200.00
+15;Trabalhista;Finalizado;05/02/2026;22/02/2026;Logistica Norte;6100.00
+16;Civel;Finalizado;08/02/2026;10/04/2026;Clinica Saude;15000.00
+17;NDA;Finalizado;10/02/2026;14/02/2026;Consultoria RH;0.00
+18;Fornecedor;Finalizado;15/02/2026;12/03/2026;Equipamentos TI;14000.00
+19;Tributario;Em Revisao;18/02/2026;;Banco Financeiro;75000.00
+20;Trabalhista;Finalizado;20/02/2026;08/03/2026;Posto Combustivel;5200.00
+21;Civel;Finalizado;25/02/2026;05/06/2026;Construtora Horizonte;60000.00
+22;NDA;Finalizado;01/03/2026;03/03/2026;Design Studio;0.00
+23;Fornecedor;Finalizado;05/03/2026;02/04/2026;Seguranca Max;9800.00
+24;Trabalhista;Finalizado;10/03/2026;28/03/2026;Padaria Central;4500.00
+25;Civel;Em Revisao;15/03/2026;;Viacao Estrada;22000.00
+26;NDA;Finalizado;20/03/2026;22/03/2026;App Mobile;0.00
+27;Fornecedor;Finalizado;25/03/2026;20/04/2026;Móveis Planejados;17000.00
+28;Tributario;Finalizado;01/04/2026;25/05/2026;Farmacia Vida;28000.00
+29;Trabalhista;Finalizado;05/04/2026;20/04/2026;Supermercado Preço;5900.00
+30;Civel;Finalizado;10/04/2026;28/05/2026;Condominio Flores;19000.00
